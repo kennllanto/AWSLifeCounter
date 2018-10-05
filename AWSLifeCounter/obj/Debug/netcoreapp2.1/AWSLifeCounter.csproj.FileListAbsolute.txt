@@ -1,0 +1,10 @@
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Debug\netcoreapp2.1\AWSLifeCounter.deps.json
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Debug\netcoreapp2.1\AWSLifeCounter.runtimeconfig.json
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Debug\netcoreapp2.1\AWSLifeCounter.runtimeconfig.dev.json
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Debug\netcoreapp2.1\AWSLifeCounter.dll
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Debug\netcoreapp2.1\AWSLifeCounter.pdb
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Debug\netcoreapp2.1\AWSLifeCounter.csproj.CoreCompileInputs.cache
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Debug\netcoreapp2.1\AWSLifeCounter.AssemblyInfoInputs.cache
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Debug\netcoreapp2.1\AWSLifeCounter.AssemblyInfo.cs
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Debug\netcoreapp2.1\AWSLifeCounter.dll
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Debug\netcoreapp2.1\AWSLifeCounter.pdb

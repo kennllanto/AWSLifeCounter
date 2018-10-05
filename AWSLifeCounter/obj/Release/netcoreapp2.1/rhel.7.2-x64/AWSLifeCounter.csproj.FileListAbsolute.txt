@@ -1,0 +1,11 @@
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.deps.json
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.runtimeconfig.json
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.runtimeconfig.dev.json
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.dll
+C:\Dev\AWSLifeCounter\AWSLifeCounter\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.pdb
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.csprojAssemblyReference.cache
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.csproj.CoreCompileInputs.cache
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.AssemblyInfoInputs.cache
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.AssemblyInfo.cs
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.dll
+C:\Dev\AWSLifeCounter\AWSLifeCounter\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLifeCounter.pdb
